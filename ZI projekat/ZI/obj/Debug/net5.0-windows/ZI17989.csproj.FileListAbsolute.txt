@@ -1,0 +1,56 @@
+D:\Zastita informacija\Projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.exe
+D:\Zastita informacija\Projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.deps.json
+D:\Zastita informacija\Projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.runtimeconfig.json
+D:\Zastita informacija\Projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.runtimeconfig.dev.json
+D:\Zastita informacija\Projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.dll
+D:\Zastita informacija\Projekat\ZI17989\bin\Debug\net5.0-windows\ref\ZI17989.dll
+D:\Zastita informacija\Projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.pdb
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.csproj.AssemblyReference.cache
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.Form1.resources
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.csproj.GenerateResource.cache
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.AssemblyInfoInputs.cache
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.AssemblyInfo.cs
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.csproj.CoreCompileInputs.cache
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.dll
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ref\ZI17989.dll
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.pdb
+D:\Zastita informacija\Projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.genruntimeconfig.cache
+D:\Zastita informacija\ZI17989\bin\Debug\net5.0-windows\ZI17989.exe
+D:\Zastita informacija\ZI17989\bin\Debug\net5.0-windows\ZI17989.deps.json
+D:\Zastita informacija\ZI17989\bin\Debug\net5.0-windows\ZI17989.runtimeconfig.json
+D:\Zastita informacija\ZI17989\bin\Debug\net5.0-windows\ZI17989.runtimeconfig.dev.json
+D:\Zastita informacija\ZI17989\bin\Debug\net5.0-windows\ZI17989.dll
+D:\Zastita informacija\ZI17989\bin\Debug\net5.0-windows\ref\ZI17989.dll
+D:\Zastita informacija\ZI17989\bin\Debug\net5.0-windows\ZI17989.pdb
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.csproj.AssemblyReference.cache
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.Form1.resources
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.csproj.GenerateResource.cache
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.AssemblyInfoInputs.cache
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.AssemblyInfo.cs
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.csproj.CoreCompileInputs.cache
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.dll
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ref\ZI17989.dll
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.pdb
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.genruntimeconfig.cache
+D:\Zastita informacija\ZI17989\obj\Debug\net5.0-windows\ZI17989.Properties.Resources.resources
+D:\Zastita informacija\ZI projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.exe
+D:\Zastita informacija\ZI projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.deps.json
+D:\Zastita informacija\ZI projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.runtimeconfig.json
+D:\Zastita informacija\ZI projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.runtimeconfig.dev.json
+D:\Zastita informacija\ZI projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.dll
+D:\Zastita informacija\ZI projekat\ZI17989\bin\Debug\net5.0-windows\ref\ZI17989.dll
+D:\Zastita informacija\ZI projekat\ZI17989\bin\Debug\net5.0-windows\ZI17989.pdb
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.csproj.AssemblyReference.cache
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.Form1.resources
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.Properties.Resources.resources
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.csproj.GenerateResource.cache
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.AssemblyInfoInputs.cache
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.AssemblyInfo.cs
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.csproj.CoreCompileInputs.cache
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.dll
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ref\ZI17989.dll
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.pdb
+D:\Zastita informacija\ZI projekat\ZI17989\obj\Debug\net5.0-windows\ZI17989.genruntimeconfig.cache

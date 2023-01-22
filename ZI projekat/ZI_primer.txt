@@ -1,0 +1,2 @@
+Ovo je primer za proveru enkripcije i dekripcije fajlova.
+Koristi se CBC algoritam.

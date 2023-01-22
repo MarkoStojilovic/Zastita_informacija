@@ -1,0 +1,8 @@
+-Za algoritme RC4 i TEA neophodno je uneti kljuc za enkripciju/dekripciju.
+-Za proveru svih algoritama potrebno je u polje "Tekst za enkripciju" uneti neki tekst, izabrati odgovarajuci algoritam i ici na "Encrypt",
+nakon toga ce u polju "Enkriptovani tekst" da se pojavi sifrovana vrednost, pritiskom na "Decrypt" dobicemo pocetnu vrednost u polju "Dekriptovani tekst"
+-Izborom "Encrypt File" otvara se prozor za izbor fajla, a zatim i prozor sa izborom mesta za cuvanje enkriptovanog fajla, ista procedura vazi i za dugme
+"Decrypt File" gde otvaramo fajl za dekripciju i biramo gde cemo da ga sacuvamo
+-"CRC Compare" nam nudi da izaberemo prvo prvi fajl, a zatim i drugi i proverava da li su identicni
+- "Encrypt Bitmap" otvara prozor za izbor bmp fajla, a zatim i prozor za cuvanje enkriptovanog fajla, "Decrypt Bitmap" otvara prozor za izbor bmp enkriptovanog fajla
+i prozor za cuvanje dekriptovanoog fajla. Za obe opcije potrebno je prethodno uneti kljuc 
